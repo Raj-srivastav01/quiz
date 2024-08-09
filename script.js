@@ -37,7 +37,7 @@ const quizData = [
         b: "James Gosling",
         c: "Guido van Rossum",
         d: "None of the above",
-        correct:"",
+        correct:"a",
     },
 ];
 
